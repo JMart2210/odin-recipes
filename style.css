@@ -1,0 +1,26 @@
+.food {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: azure;
+  font-size: 24px;
+}
+
+.meat, .animal {
+  font-weight: bold;
+}
+
+.noodles {
+  font-style: italic;
+}
+
+body {
+  text-align: center;
+}
+
+img {
+    height: auto;
+    width: 550px;
+}
+
+* {
+    border: 2px solid red;
+}
