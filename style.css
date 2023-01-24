@@ -4,7 +4,8 @@
   font-size: 24px;
 }
 
-.meat, .animal {
+.meat,
+.animal {
   font-weight: bold;
 }
 
@@ -17,10 +18,10 @@ body {
 }
 
 img {
-    height: auto;
-    width: 550px;
+  height: auto;
+  width: 550px;
 }
 
 * {
-    border: 2px solid red;
+  border: 2px solid red;
 }
